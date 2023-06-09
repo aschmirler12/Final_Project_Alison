@@ -3,7 +3,7 @@
 
 ---
 
-###Step 1: Preparations
+### Step 1: Preparations
 
 - 1.1 Mounting drive and importing the data
 
@@ -13,7 +13,7 @@
 
 - 1.4 Clearing each column
 
-###Step 2: Add description column
+### Step 2: Add description column
 - Adding the column with the description from Google Books API and loading it into a CSV
 
 ### Step 3: Add Author table
